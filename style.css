@@ -19,3 +19,7 @@
     transform: translateY(5px);/*下に動く*/
     border-bottom: solid 2px #000000;
 }
+
+.font{
+    font-family: 'Comic Sans MS','Papyrus',sans-serif;
+}
